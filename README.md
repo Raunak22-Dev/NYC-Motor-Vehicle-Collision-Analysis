@@ -13,13 +13,13 @@ The dashboard explores accident patterns, contributing factors, severity distrib
 - Unsafe Speed was the leading known cause of fatal crashes.
 - April recorded the lowest accident percentage (COVID lockdown effect).
 - Evening rush hours (4 PM–7 PM) showed the highest accident frequency.
-- Brooklyn/Queens (depending on your result) reported the highest number of collisions.
+- Brooklyn (depending on your result) reported the highest number of collisions.
 
 ---
 
 ## 📈 Dashboard Features
 
-- KPI Cards (Total Accidents, Fatal Crashes, Most Dangerous Hour, Most Accident-Prone Borough)
+- KPI Cards (Total Accidents,Total Killed, Most Dangerous Hour, Most Accident-Prone Borough)
 - Monthly Accident Trend (%)
 - Day vs Hour Heatmap
 - Top 10 Accident-Prone Streets

@@ -46,7 +46,7 @@ New York City Police Department (NYPD) Motor Vehicle Collision Data.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 

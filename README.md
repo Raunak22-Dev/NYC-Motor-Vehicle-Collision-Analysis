@@ -1,7 +1,7 @@
 # NYC Motor Vehicle Collision Analysis Dashboard (Jan–Aug 2020)
 
 ## 📊 Project Overview
-This project analyzes motor vehicle collision data reported by the New York City Police Department (NYPD) from January to August 2020.
+This project analyzes motor vehicle collision data reported by the New York City (NYC) from January to August 2020.
 
 The dashboard explores accident patterns, contributing factors, severity distribution, and high-risk time periods.
 
